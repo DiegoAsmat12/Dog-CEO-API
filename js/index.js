@@ -61,5 +61,5 @@ async function buscadorDeImagenesDePerritoAsync( event){
 }
 
 let dogForm = document.querySelector('.dogForm');
-dogForm.addEventListener('submit', buscadorDeImagenes)
+dogForm.addEventListener('submit', buscadorDeImagenes);
 
