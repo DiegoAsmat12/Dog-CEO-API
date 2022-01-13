@@ -1,0 +1,18 @@
+.dogForm{
+    margin: 10px auto;
+    width: 400px;
+}
+
+.resultados{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.resultados > div{
+    flex: 1;
+    margin: 5px;
+}
+
+img{
+    width: 250px;
+}
